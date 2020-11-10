@@ -1,0 +1,114 @@
+
+.cuadro2{
+	position: absolute;
+	top: 320px;
+	left: 130px;
+	background: blue;
+	border:solid black 3px;
+	width: 110px;
+	height: 40px;
+	padding: 15px;
+	font-size: 20px;
+	color: white;
+
+
+}
+.b1{
+	margin-top: 60px;
+}
+.cuadro3{
+	display: none;
+}
+
+.cuadro4{
+	display: block;
+	position: absolute;
+	top: 175px;
+	left: 12px;
+	background-image: url(nido.jpg);: 
+	border:solid black 2px;
+	width: 310px;
+	height: 312px;
+	padding: 45px;
+	font-size: 20px;
+	color: white;
+}
+
+
+
+
+
+
+.cuadro5{
+	position: relative;
+	top: 130px;
+	left: 130px;
+	background: blue;
+	border:solid black 3px;
+	width: 110px;
+	height: 40px;
+	padding: 15px;
+	font-size: 20px;
+	color: white;
+
+
+}
+
+.b3{
+	margin-top: 70px;
+}
+.cuadro6{
+	display: none;
+}
+
+.cuadro7{
+	display: block;
+	position: absolute;
+	top: 190px;
+	left: 660px;
+	background-image: url(naturaleza.jpg);: 
+	border:solid black 2px;
+	width: 312px;
+	height: 190px;
+	padding: 45px;
+	font-size: 20px;
+	color: white;
+}
+
+
+
+.cuadro8{
+	position: relative;
+	top: 150px;
+	left: 0px;
+	background: blue;
+	border:solid black 3px;
+	width: 110px;
+	height: 40px;
+	padding: 15px;
+	font-size: 20px;
+	color: white;
+
+
+}
+
+.b4{
+	margin-top: 100px;
+}
+.cuadro9{
+	display: none;
+}
+
+.cuadro10{
+	display: block;
+	position: absolute;
+	top: 830px;
+	left: 660px;
+	background-image: url(nido1.jpg);
+	border:solid black 2px;
+	width: 312px;
+	height: 310px;
+	padding: 45px;
+	font-size: 20px;
+	color: white;
+}
